@@ -54,3 +54,5 @@ elif w5 > w1 and w5 > w2 and w5 > w3 and w5 > w4 and w5 > w6:
     print('Najczęściej wypadłała 5')
 elif w6 > w1 and w6 > w2 and w6 > w3 and w6 > w4 and w6 > w5:
     print('Najczęściej wypadłała 6')
+else:
+    print('Jakieś liczby wypadały tak samo często! Sprawdź tabelkę powyżej')
